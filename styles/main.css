@@ -147,3 +147,19 @@ p{
 main{
   padding: 0 2rem;
 }
+
+aside{
+  padding:5rem;
+}
+
+.web-button{
+  background-color: var(--colonial-red);
+  color:white;
+  border-radius: 50px;
+  display:inline-block;
+  padding: 0 2rem;
+}
+
+.web-button:hover{
+  background-color:var(--colonial-green);
+}
